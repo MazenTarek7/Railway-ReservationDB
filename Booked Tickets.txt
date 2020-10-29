@@ -1,0 +1,18 @@
+First Name: Mazen
+Last Name: Tarek
+Train Number: 1
+No. of Seats: 4
+Phone Number: 01200014400
+-------------------------------------
+First Name: Mohamed
+Last Name: Amr
+Train Number: 3
+No. of Seats: 2
+Phone Number: 01200014300
+-------------------------------------
+First Name: Mazen
+Last Name: Tarek
+Train Number: 3
+No. of Seats: 3
+Phone Number: 01200014332
+-------------------------------------
